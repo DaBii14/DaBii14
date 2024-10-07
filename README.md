@@ -3,7 +3,9 @@
 meu nome é Gabi
 
 -Estou estudando na [Alura](https://www.alura.com.br)
+
 -Estou desenvolvendo na linguagem Javascript
+
 -utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você pode entrar em contato comigo 📧
